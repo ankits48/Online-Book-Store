@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'BookHut',
+	'hostname' => 'fdb32.awardspace.net',
+	'username' => '3861700_bookhut',
+	'password' => 'G#pL7Cqy7bt54u5y',
+	'database' => '3861700_bookhut',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
